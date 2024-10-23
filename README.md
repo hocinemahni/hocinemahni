@@ -1,6 +1,7 @@
-# Hello, World ! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-![Storage Animation](https://media.giphy.com/media/xThtaaA6J0E0lPcsTS/giphy.gif)
-Welcome to my GitHub!
+# <marquee>Hello, World 👋</marquee>
+
+<marquee>Welcome to my GitHub!</marquee>
+
 
 💼 **Name**: Hocine Mahni  
 💻 **Current Work**: Storage optimization, HPC, and simulation of multi-tier storage systems in Python  
