@@ -31,7 +31,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
   <a href="mailto:hocine.mahni@ensta-bretagne.org">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" alt="Outlook" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" alt="Outlook" height="30" width="40" />
   </a>
 </p>
 
