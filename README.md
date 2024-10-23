@@ -5,8 +5,8 @@
 
 <h2 align="center">A passionate computer scientist focusing on storage optimization and HPC</h2><br/>
 
-<!-- Ajuster l'image à droite avec moins de taille -->
-<img align="right" width="40%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+<!-- Ajuster la taille du GIF pour qu'il reste dans les limites -->
+<img align="right" width="35%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hocinemahni&label=Profile%20views&color=0e75b6&style=flat" alt="hocinemahni" />
@@ -20,21 +20,19 @@
 
 - ⚡ Fun fact: **I love optimizing complex systems**
 
-
-
 ---
 
 <h2 align="left">Connect with me:</h2>
-<!-- Correction de l'alignement des icônes -->
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/hocine-mahni-85780518b/" target="blank">
+  <a href="https://www.linkedin.com/in/hocine-mahni-85780518b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.researchgate.net/profile/Hocine-Mahni" target="blank">
+  <a href="https://www.researchgate.net/profile/Hocine-Mahni" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" height="30" width="40" />
   </a>
   <a href="mailto:hocine.mahni@ensta-bretagne.org">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Outlook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Outlook" height="30" width="40" />
   </a>
 </p>
 
