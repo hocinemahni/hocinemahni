@@ -3,7 +3,7 @@
 <!--   Typing animation   -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;Welcome+to+My+GitHub+Profile;I+work+on+Storage+Optimization,+HPC+and+Python+Simulations!)](https://git.io/typing-svg)
 
-<h2 align="center">A passionate computer scientist focusing on storage optimization and HPC</h2><br/>
+<h2 align="center">A passionate computer scientist focusing on storage HPC optimization</h2><br/>
 
 <!-- Ajuster la taille du GIF pour qu'il reste dans les limites -->
 <img align="right" width="35%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
