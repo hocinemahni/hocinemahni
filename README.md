@@ -5,7 +5,7 @@
 
 <h2 align="center">A passionate computer scientist focusing on storage optimization and HPC</h2><br/>
 
-<img align="right" width="50%" src="https://cdn.pixabay.com/animation/2022/10/18/08/30/08-30-16-64_512.gif"/>
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hocinemahni&label=Profile%20views&color=0e75b6&style=flat" alt="hocinemahni" /> </p>
 
