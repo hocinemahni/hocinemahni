@@ -1,5 +1,40 @@
-# Hello, World 👋
-### Welcome to my GitHub!
+<h1>
+  <span class="wave">Hello, World 👋</span>
+</h1>
+<h2>
+  <span class="typing">Welcome to my GitHub!</span>
+</h2>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0); }
+  20% { transform: rotate(14deg); }
+  40% { transform: rotate(-8deg); }
+  60% { transform: rotate(14deg); }
+  80% { transform: rotate(-4deg); }
+  100% { transform: rotate(0); }
+}
+.wave {
+  display: inline-block;
+  animation: wave 2.5s infinite;
+}
+.typing {
+  display: inline-block;
+  overflow: hidden;
+  border-right: .15em solid #000;
+  white-space: nowrap;
+  animation: typing 3.5s steps(40, end), blink .75s step-end infinite;
+}
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@keyframes blink {
+  from, to { border-color: transparent; }
+  50% { border-color: black; }
+}
+</style>
+
 
 💼 **Name**: Hocine Mahni  
 💻 **Current Work**: Storage optimization, HPC, and simulation of multi-tier storage systems in Python  
@@ -31,7 +66,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🌟 My GitHub Stats
-![Hocine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&theme=radical)
+![Hocine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&layout=compact&theme=radical)
