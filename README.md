@@ -1,49 +1,47 @@
-# Hello, World! 👋
+![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 
-![Storage Animation 1](https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/200w.gif?cid=6c09b952f5khccs1rtqosojejavckrij1miljt3bcpovpw5l&ep=v1_gifs_search&rid=200w.gif&ct=g)
+<!--   Typing animation   -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;Welcome+to+My+GitHub+Profile;I+work+on+Storage+Optimization,+HPC+and+Python+Simulations!)](https://git.io/typing-svg)
 
-Welcome to my GitHub!
+<h2 align="center">A passionate computer scientist focusing on storage optimization and HPC</h2><br/>
 
-![Storage Animation 2](https://cdn.pixabay.com/animation/2022/10/18/08/30/08-30-16-64_512.gif)
+<img align="right" width="50%" src="https://cdn.pixabay.com/animation/2022/10/18/08/30/08-30-16-64_512.gif"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hocinemahni&label=Profile%20views&color=0e75b6&style=flat" alt="hocinemahni" /> </p>
 
-💼 **Name**: Hocine Mahni  
-💻 **Current Work**: Storage optimization, HPC, and simulation of multi-tier storage systems in Python  
-📚 **Experience**: Big Data, Business Intelligence, Operations Research, System Administration
+- 🌱 I’m currently working on **Storage Optimization, Multi-tier Storage Systems, and HPC Simulations in Python**
 
-## 🔧 What I am currently working on:
-- Storage optimization
-- HPC (High-Performance Computing)
-- Multi-tier storage system simulation
+- 💬 Ask me about **Big Data, Business Intelligence, Operations Research, and HPC**
 
-## 🌱 Areas of expertise:
-- **Big Data**
-- **Business Intelligence**
-- **Operations Research**
-- **Storage Optimization**
-- **System Administration**
+- 📫 How to reach me **hocine.mahni@ensta-bretagne.org**
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![System Administration](https://img.shields.io/badge/-System%20Administration-007ACC?style=flat-square&logo=linux&logoColor=white)
+- ⚡ Fun fact: **I love optimizing complex systems**
 
-## ⚙️ Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F3631D?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
 
-## 🌟 My GitHub Stats
-![Hocine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/hocine-mahni-85780518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Hocine-Mahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" height="30" width="40" /></a>
+<a href="mailto:hocine.mahni@ensta-bretagne.org"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Outlook" height="30" width="40" /></a>
+</p>
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&layout=compact&theme=radical)
+---
 
-## 📫 Contact Me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hocinemahni&" alt="hocinemahni" /></p>
 
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:hocine.mahni@ensta-bretagne.org)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hocine-mahni-85780518b/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hocine-Mahni)
+<img align="left" width="50%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&theme=radical"/>
+<img align="right" width="50%" height="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&layout=donut-vertical"/><br/>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache-spark" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> 
+</p>
+
