@@ -47,8 +47,18 @@
   
  <div align="center">
   <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&count_private=true&theme=radical"/>
-  <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&langs_count=10&hide=html,css,javascript&layout=compact&theme=radical"/>
 </div><br/>
+
+
+---
+
+
+<!-- Most Used Languages Section with Badges -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+</p>
 
 
 
