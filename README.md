@@ -44,8 +44,10 @@
 
 <!-- Ajustement de l'affichage des statistiques pour qu'elles soient alignées correctement -->
 <div align="center">
-  <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&theme=radical"/>
+  
   <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&layout=donut-vertical"/>
+  <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&count_private=true&theme=radical"/>
+
 </div><br/>
 
 ---
