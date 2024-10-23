@@ -1,40 +1,6 @@
-<h1>
-  <span class="wave">Hello, World 👋</span>
-</h1>
-<h2>
-  <span class="typing">Welcome to my GitHub!</span>
-</h2>
+# Hello, World ! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0); }
-  20% { transform: rotate(14deg); }
-  40% { transform: rotate(-8deg); }
-  60% { transform: rotate(14deg); }
-  80% { transform: rotate(-4deg); }
-  100% { transform: rotate(0); }
-}
-.wave {
-  display: inline-block;
-  animation: wave 2.5s infinite;
-}
-.typing {
-  display: inline-block;
-  overflow: hidden;
-  border-right: .15em solid #000;
-  white-space: nowrap;
-  animation: typing 3.5s steps(40, end), blink .75s step-end infinite;
-}
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blink {
-  from, to { border-color: transparent; }
-  50% { border-color: black; }
-}
-</style>
-
+Welcome to my GitHub!
 
 💼 **Name**: Hocine Mahni  
 💻 **Current Work**: Storage optimization, HPC, and simulation of multi-tier storage systems in Python  
@@ -66,12 +32,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🌟 My GitHub Stats
-![Hocine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Hocine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&theme=radical)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hocinemahni&layout=compact&theme=radical)
 
 ## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hocine@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hocinemahni)
 
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:hocine.mahni@ensta-bretagne.org)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hocine-mahni-85780518b/)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Hocine-Mahni)
