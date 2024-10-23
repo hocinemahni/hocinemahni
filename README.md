@@ -1,6 +1,10 @@
-# <marquee>Hello, World 👋</marquee>
+# Hello, World! 👋
 
-<marquee>Welcome to my GitHub!</marquee>
+![Storage Animation 1](https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/200w.gif?cid=6c09b952f5khccs1rtqosojejavckrij1miljt3bcpovpw5l&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
+Welcome to my GitHub!
+
+![Storage Animation 2](https://cdn.pixabay.com/animation/2022/10/18/08/30/08-30-16-64_512.gif)
 
 
 💼 **Name**: Hocine Mahni  
