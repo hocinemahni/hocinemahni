@@ -23,18 +23,18 @@
 ---
 
 <h2 align="left">Connect with me:</h2>
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/hocine-mahni-85780518b/" target="_blank">
+  <a href="https://www.linkedin.com/in/hocine-mahni-85780518b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.researchgate.net/profile/Hocine-Mahni" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" height="30" width="40" />
+  <a href="https://www.researchgate.net/profile/Hocine-Mahni" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
   <a href="mailto:hocine.mahni@ensta-bretagne.org">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Outlook" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" alt="Outlook" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
