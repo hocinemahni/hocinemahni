@@ -20,6 +20,8 @@
 - 💬 Ask me about **Big Data, Business Intelligence, Operations Research, and HPC Storage**
 
 - 📫 How to reach me **hocine.mahni@ensta-bretagne.org**
+
+- 🏢 I am affiliated with **Lab-STICC**, **ENSTA Bretagne**
 <br><br><br>
 ---
 
