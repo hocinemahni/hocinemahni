@@ -4,8 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA+Bretagne;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
 
 <h2 align="center"> Data storage is not just about capacity; it's about speed and reliability in accessing and managing data, whether it's active or archived !!! </h2><br/>
+<!-- Proverb of the Day -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Proverb+of+the+Day:+Don't+communicate+by+sharing+memory,+share+memory+by+communicating.)](https://git.io/typing-svg)
 
-<!-- Ajuster la taille du GIF pour qu'il reste dans les limites -->
+<!--  -->
 <img align="right" width="35%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
 
 <p align="left">
@@ -40,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hocinemahni&" alt="hocinemahni" />
 </p>
 
-<!-- Ajustement de l'affichage des statistiques pour qu'elles soient alignées correctement -->
+<!--  -->
 
   
  <div align="center">
