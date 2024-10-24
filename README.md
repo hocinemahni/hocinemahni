@@ -50,7 +50,8 @@
 
   
  <div align="center">
-  <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&count_private=true&theme=radical"/>
+  <!-- <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&show_icons=true&count_private=true&theme=radical"/> -->
+   <img align="center" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=hocinemahni&theme=radical"/>
 </div><br/>
 
 
