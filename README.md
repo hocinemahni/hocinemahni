@@ -3,7 +3,7 @@
 <!--   Typing animation   -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA+Bretagne;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
 
-<h2 align="center">A passionate computer scientist focusing on storage HPC optimization</h2><br/>
+<h2 align="center">  </h2><br/>
 
 <!-- Ajuster la taille du GIF pour qu'il reste dans les limites -->
 <img align="right" width="35%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
@@ -12,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=hocinemahni&label=Profile%20views&color=0e75b6&style=flat" alt="hocinemahni" />
 </p>
 
-- 🌱 I’m currently working on **Storage Optimization, Multi-tier Storage Systems, and HPC Simulations in Python**
+- 🌱 I’m currently working on **Storage Optimization, Multi-tier Storage Systems, and HPC Storage Simulations**
 
-- 💬 Ask me about **Big Data, Business Intelligence, Operations Research, and HPC**
+- 💬 Ask me about **Big Data, Business Intelligence, Operations Research, and HPC Storage**
 
 - 📫 How to reach me **hocine.mahni@ensta-bretagne.org**
 
-- ⚡ Fun fact: **I love optimizing complex systems**
+
 
 ---
 
