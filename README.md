@@ -4,7 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA+Bretagne;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
 
 <h2 align="center"> Data storage is not just about capacity; it's about speed and reliability in accessing and managing data, whether it's active or archived !!! </h2><br/>
+
 <!-- Proverb of the Day -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Proverb+of+the+Day:+Don't+communicate+by+sharing+memory,+share+memory+by+communicating.)](https://git.io/typing-svg)
 
 <!--  -->
