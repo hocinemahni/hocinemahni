@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **hocine.mahni@ensta-bretagne.org**
 
-
-
 ---
 
 <h2 align="left">Connect with me:</h2>
