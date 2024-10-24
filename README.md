@@ -1,7 +1,7 @@
 ![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 
 <!--   Typing animation   -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;Welcome+to+My+GitHub+Profile;I+work+on+Storage+Optimization,+HPC+and+Python+Simulations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA+Bretagne;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
 
 <h2 align="center">A passionate computer scientist focusing on storage HPC optimization</h2><br/>
 
