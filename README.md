@@ -9,11 +9,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Proverb+of+the+Day:+Don't+communicate+by+sharing+memory;Share+memory+by+communicating.)](https://git.io/typing-svg)
 
 <!--  -->
-<img align="right" width="40%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Developer at work"/>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hocinemahni&label=Profile%20views&color=0e75b6&style=flat" alt="hocinemahni" />
-</p>
+</p> -->
 
 - 🌱 I’m currently working on **Storage Optimization, Multi-tier Storage Systems, and HPC Storage Simulations**
 
