@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hocinemahni&" alt="hocinemahni" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hocinemahni&"  />
 </p>
 
 <!--  -->
