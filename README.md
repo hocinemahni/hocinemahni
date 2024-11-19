@@ -96,5 +96,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">
   <!--- <img alt="github contribution grid snake animation" src="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">-->
   <p align="center">
- <img width="1000" src="[assets/snake.svg](https://github.com/hocinemahni/hocinemahni/blob/output/)" alt="snake"/>
+    
+ <img width="1000" src="https://github.com/hocinemahni/hocinemahni/blob/output/" alt="snake"/>
 </p>
