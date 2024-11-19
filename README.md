@@ -94,4 +94,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">
+  <!--- <img alt="github contribution grid snake animation" src="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">-->
+  <p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
