@@ -97,5 +97,5 @@
   <!--- <img alt="github contribution grid snake animation" src="https://github.com/hocinemahni/hocinemahni/blob/output/github-contribution-grid-snake.svg">-->
   <p align="center">
     
- <img width="1000" src="https://github.com/hocinemahni/hocinemahni/blob/output/">
+ <img width="1000" src="https://github.com/hocinemahni/hocinemahni/blob/output/snake.svg">
 </p>
