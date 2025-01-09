@@ -1,7 +1,7 @@
 ![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 
 <!--   Typing animation   -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA+Bretagne;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello,+I'm+Hocine+Mahni;I+am+a+PhD+student+at+ENSTA;Welcome+to+My+GitHub+Profile;I+work+on+HPC+Storage+Optimization!)](https://git.io/typing-svg)
 
 <h2 align="center"> Data storage is not just about capacity; it's about speed and reliability in accessing and managing data, whether it's active or archived !!! </h2><br/>
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Big Data, Business Intelligence, Operations Research, and HPC Storage**
 
-- 📫 How to reach me **hocine.mahni@ensta-bretagne.org**
+- 📫 How to reach me **hocine.mahni@ensta.fr**
 
-- 🏢 I am affiliated with **Lab-STICC**, **ENSTA Bretagne**
+- 🏢 I am affiliated with **Lab-STICC**, **ENSTA **
 <br><br><br>
 ---
 
@@ -34,7 +34,7 @@
   <a href="https://www.researchgate.net/profile/Hocine-Mahni" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
-  <a href="mailto:hocine.mahni@ensta-bretagne.org">
+  <a href="mailto:hocine.mahni@ensta.fr">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" alt="Outlook" height="30" width="40" />
   </a>
 </p>
