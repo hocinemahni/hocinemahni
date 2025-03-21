@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hocine.mahni@ensta.fr**
 
-- 🏢 I am affiliated with **Lab-STICC**, **ENSTA **
+- 🏢 I am affiliated with **Lab-STICC**, **ENSTA**
 <br><br><br>
 ---
 
